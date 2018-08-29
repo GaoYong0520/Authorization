@@ -1,7 +1,5 @@
 # Spring Security
 
-## 1. 基础
-
 1. 框架结构
 
    ![框架结构](./img/spring-security.png)
@@ -43,4 +41,5 @@
 1. 权限缓存 
 1. 自定义决策
     - 投票器    
+1. 优缺点        
     
